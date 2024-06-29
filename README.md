@@ -7,3 +7,4 @@ It uses [air](https://github.com/air-verse/air) for live realoding and [task](ht
 ## Build project
 To build the project use the `build` task or the `default` one.
 
+    task [build]
